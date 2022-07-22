@@ -3,7 +3,7 @@ ROS installation on windows 10
 
 1- Download virtualBox from the the virtual box website https://www.virtualbox.org/wiki/Downloads
 
-2- Download Ubuntu system Download Ubuntu Desktop | Download | Ubuntu 
+2- Download Ubuntu system https://ubuntu.com/download/desktop 
 
 3- Create new virtual machine 
 •	Open virtualBox
