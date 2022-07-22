@@ -22,3 +22,7 @@ ROS installation on windows 10
 6- install ROS
 •	open the terminal and follow these instructions 
 http://wiki.ros.org/noetic/Installation/Ubuntu
+
+7- ROS on Jetson Nano 
+•	open the terminal and follow these instructions 
+https://www.stereolabs.com/blog/ros-and-nvidia-jetson-nano/#:~:text=%20Getting%20Started%20with%20ROS%20on%20Jetson%20Nano,How%20can%20a%20robot%20be%20autonomous...%20More%20
